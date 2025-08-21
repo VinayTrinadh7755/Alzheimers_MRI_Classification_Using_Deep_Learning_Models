@@ -1,4 +1,4 @@
-# Alzheimer-_MRI_Classification_Using_Deep_Learning_Models
+# Alzheimer's MRI Classification Using Deep Learning Models
 A deep learning project comparing state-of-the-art convolutional neural networks (CNNs) to classify Alzheimer's disease stages from MRI scans.
 
 ## 🔍 Project Overview
@@ -31,8 +31,8 @@ The primary goal of this project was to explore how different deep learning mode
 To get started, clone the repository and install the required Python packages.
 
 ```bash
-git clone <repository-link>
-cd <repository-name>
+git clone <https://github.com/VinayTrinadh7755/Alzheimers_MRI_Classification_Using_Deep_Learning_Models.git>
+cd <Alzheimers_MRI_Classification_Using_Deep_Learning_Models>
 pip install -r requirements.txt
 ```
 
